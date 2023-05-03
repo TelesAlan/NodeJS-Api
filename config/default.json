@@ -1,0 +1,6 @@
+{
+    "server": {
+        "port": 5000
+    },
+    "APPLICATION_ID": "YOUR_APPLICATION_ID_HERE" 
+}
