@@ -1,7 +1,7 @@
 
 # API NodeJS (ExpressJS) conectado ao MongoDB
 
-Este projeto contem um [CRUD](https://developer.mozilla.org/pt-BR/docs/Glossary/CRUD), para controle de usuários. Desde o cadastro, login, autenticação de dois fatores com envio de e-mail, alteração de senha, e listagem de rotas privadas (que só liberam o acesso quando o usuário está autenticado na aplicação).
+Este projeto contem um [CRUD](https://developer.mozilla.org/pt-BR/docs/Glossary/CRUD), para controle de usuários. Desde o cadastro, login, autenticação de dois fatores com envio de e-mail, alteração de senha, e listagem de rotas privadas (que só liberam o acesso quando o usuário está autenticado na aplicação), para o controle de carros. Todas as informações conectadas ao banco de dados não relacional, MongoDB.
 
 # Preparação
 
