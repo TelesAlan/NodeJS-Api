@@ -283,3 +283,18 @@ Para funções genericas, e que possam ser uitlizadas em **N** lugares diferente
 * https://stackoverflow.com/questions/12921658/use-specific-middleware-in-express-for-all-paths-except-a-specific-one
 * https://www.mongodb.com/docs/v6.0/reference/
 * https://www.youtube.com/@Sujeitoprogramador/featured
+
+# Suporte
+Se você tiver algum problema ou dúvida, sinta-se à vontade para abrir uma **issue** neste repositório.
+
+# Contribuição
+Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga estas etapas:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch: "**git checkout -b minha-branch**".
+3. Faça suas modificações e commit: "**git commit -m 'Minhas alterações'**".
+4. Envie para o repositório remoto: "**git push origin minha-branch**".
+5. Abra uma **pull request** explicando suas alterações.
+
+# Licença
+Este projeto está licenciado sob a MIT License. Sinta-se livre para usá-lo da maneira que preferir.
